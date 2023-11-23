@@ -1,0 +1,55 @@
+.uprod h2 {
+    margin-top: 5%;
+    text-align: center;
+}
+#cat {
+    height: 30px;
+    width: 250px;
+    margin-left: 15%;
+    font-size: medium;
+
+    /* margin-bottom: 30px; */
+}
+#proname{
+    height: 40px;
+    width: 250px;
+    margin-left: 7%;
+    font-size: medium;
+    margin-top: 30px;}
+
+.form-group label{
+    margin-left: 20%;
+    margin-top: 50%;
+    width: 400px;
+    color: black;
+   font-family: montserrarat; font-size: medium;
+}
+
+.form-group input{
+    font-size: large;
+    margin-top: 10px;
+    width: 400px;
+    margin-left: 20%;
+    border-radius: 5px;
+    height: 30px;
+    border: 2px #00A699 solid;
+ 
+}
+
+
+.uprod{
+    align-self: center;
+    border-radius: 6px;
+    box-shadow: 10px 10px 5px rgba(47, 95, 43, 0.579);
+    border: 2px black solid;
+    width: 40%;
+    margin-left:30%;
+    background-color: white;
+
+}
+.uprod button:hover{
+   
+    border:1px solid #00A699;
+    color: black;
+    background-color: white;
+}
